@@ -3,3 +3,9 @@ body{
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.header{
+    font-weight: bold;
+    font-size: 50px;
+    color: white; 
+    
+}
