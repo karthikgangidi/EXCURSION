@@ -22,3 +22,12 @@ body{
     font-size: 21px;
     color: gray;
 }
+.heading3{
+    font-weight: 300;
+    font-size: 42px;
+    color: white ;
+}
+.footer{
+    text-align: right;
+    color: gray;
+}
